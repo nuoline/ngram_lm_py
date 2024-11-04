@@ -1,0 +1,5 @@
+1.介绍
+ngramLM tools，包括训练和ppl计算，支持本地训练和hadoop
+
+2.依赖
+依赖分词工具,需下载分词词典nseg_model
